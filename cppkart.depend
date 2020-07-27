@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1595709487 source:c:\users\abc\desktop\cppkart\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
